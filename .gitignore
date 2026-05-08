@@ -1,0 +1,19 @@
+# Gradle & Android Build Files
+.gradle/
+build/
+app/build/
+*.apk
+*.aab
+
+# CMake & NDK Build Caches
+app/.cxx/
+*.so
+*.o
+*.obj
+
+# VS Code specific
+.vscode/
+*.code-workspace
+
+# Local configuration files
+local.properties
